@@ -1,6 +1,6 @@
 # 🚦 **Street Straightness-Centrality Visualization Using Momepy** 🚦
 
-This project visualizes **street straightness-centrality** for the road network in **District 11, Mashhad, Iran** using the **Momepy** library. The visualization highlights the straightness of the streets in the network, helping to understand the geometric properties of the urban area. **Straightness-centrality** measures the degree to which streets deviate from a straight path and can be used to analyze the efficiency of the urban transportation network.
+This project visualizes **street straightness-centrality** for the road network in **Mashhad, Iran** using the **Momepy** library. The visualization highlights the straightness of the streets in the network, helping to understand the geometric properties of the urban area. **Straightness-centrality** measures the degree to which streets deviate from a straight path and can be used to analyze the efficiency of the urban transportation network.
 
 For more information on **Momepy**, visit the [Momepy Documentation](http://docs.momepy.org/).
 
